@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Komal Jha
+ 👋 Hi,
+I'm Komal Jha
 
 I'm a web developer passionate about creating clean and user-friendly web applications!
 
